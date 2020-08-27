@@ -9,19 +9,11 @@
 # General
 --------------------------------------------------------------*/
 
-
-  body {
-    background-color: black;
-    color: white;
-    font-family: "Open Sans", sans-serif;
-  }
-
-
-/* body {
+body {
   background: #fff;
   color: #444;
   font-family: "Open Sans", sans-serif;
-} */
+}
 
 a {
   color: #007bff;
