@@ -9,11 +9,18 @@
 # General
 --------------------------------------------------------------*/
 
-body {
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+
+/* body {
   background: #fff;
   color: #444;
   font-family: "Open Sans", sans-serif;
-}
+} */
 
 a {
   color: #007bff;
